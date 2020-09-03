@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hrs2203/mq_req.git"
+    "url": "git+https://github.com/hrs2203/mk_req.git"
   },
   "author": "Hrishabh Pandey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hrs2203/mq_req/issues"
+    "url": "https://github.com/hrs2203/mk_req/issues"
   },
-  "homepage": "https://github.com/hrs2203/mq_req#readme"
+  "homepage": "https://github.com/hrs2203/mk_req#readme"
 }
