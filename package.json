@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hrs2203/mk_req/issues"
   },
-  "homepage": "https://github.com/hrs2203/mk_req#readme"
+  "homepage": "https://github.com/hrs2203/mk_req#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
