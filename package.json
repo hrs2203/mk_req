@@ -1,0 +1,19 @@
+{
+  "name": "mk_req",
+  "version": "1.0.0",
+  "description": "NodeJs package to make requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrs2203/mq_req.git"
+  },
+  "author": "Hrishabh Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrs2203/mq_req/issues"
+  },
+  "homepage": "https://github.com/hrs2203/mq_req#readme"
+}
